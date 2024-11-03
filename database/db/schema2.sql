@@ -39,7 +39,7 @@
     );
     
     CREATE TABLE orderItems(
-      oId INTEGER PRIMARY KEY,
+      oId INTEGER,
       pId INTEGER,
       qty INTEGER,
       warranty INTEGER,
