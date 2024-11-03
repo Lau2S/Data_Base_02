@@ -7,12 +7,15 @@ popular stack.
 
 Additionally, includes Docker + Docker compose environtment for integration and deployment.
 
-# Getting Started
-Dependencies
+## Getting Started
+
+### Dependencies
 - Database: Postgres v14
 - Backend: Django + Django Rest Framework (DRF) + Psycopg2
 - Frontend: ReactJS + Axios
 - Mobile: Expo + React Native + Expo
 
-# Authors
+### Executing program
+
+## Authors
 @Japeto by Database Course
